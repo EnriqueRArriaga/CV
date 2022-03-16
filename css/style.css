@@ -1,0 +1,17 @@
+
+  body {
+    background-color: #D1D1D1;
+  }
+
+  h1 {
+    color: #7882A4;
+  }
+
+.huge {
+  font-size: 50rem;
+  color: red;
+  font-weight: bold;}
+
+.btn {
+  background-image: url("Pictures\p.jpg");
+}
